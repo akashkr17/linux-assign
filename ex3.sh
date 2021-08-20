@@ -2,4 +2,4 @@
 
 HOST=$(hostname)
 
-echo $HOST
+echo "This script is running on" $HOST
