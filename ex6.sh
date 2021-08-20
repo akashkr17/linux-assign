@@ -1,8 +1,8 @@
 #1/bin/bash
 
 file_count(){
-count=$(ls | wc -l)
-echo $count
+counter=$(ls | wc -l)
+echo $counter
 }
 
 file_count
